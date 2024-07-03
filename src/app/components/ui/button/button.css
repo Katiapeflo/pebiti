@@ -1,0 +1,13 @@
+.button{
+padding: 12px 32px;
+border-radius: 6px;
+font-size: 18px;
+}
+
+.primary{
+background-color: #4385C6;
+}
+
+.secondary{
+    background-color: #7EB6ED;
+}
